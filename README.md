@@ -1,2 +1,2 @@
-# Faces_Generation_using_GANs
+# Faces Generation using DCGANs
 Generating people faces using Deep Convolutional Generative Adversarial Networks (DCGAN) This project is about generating fake people faces using GANs using a dataset of celebreties faces "CelebFaces Attributes Dataset (CelebA)". The model generated samples should look like fairly realistic faces with small amounts of noise. This project is the fourth requirement to graduate from Udacity's Deep learning Nano-degree.
